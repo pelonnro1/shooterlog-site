@@ -7,10 +7,8 @@ title: Open-source Licenses
 
 ShooterLog uses third-party open-source software components.
 
-For the current build license inventory, see:
+Current public inventory:
 
-- https://github.com/pelonnro1/ShooterLog/blob/main/docs/legal/open-source-licenses.md
+- [Open-source license inventory]({{ '/open-source-licenses/' | relative_url }})
 
-Repository:
-
-- https://github.com/pelonnro1/ShooterLog
+For full package-level notices per release build, regenerate from the app repository lockfile during release preparation.
