@@ -13,8 +13,8 @@ Need help with ShooterLog? Use one of the options below.
 
 ## GitHub support channels
 
-- Bug reports: https://github.com/pelonnro1/ShooterLog/issues
-- Questions and discussions: https://github.com/pelonnro1/ShooterLog/discussions
+- Bug reports: https://github.com/pelonnro1/shooterlog-site/issues
+- Questions and feedback: https://github.com/pelonnro1/shooterlog-site/issues
 
 ## Before you report
 
