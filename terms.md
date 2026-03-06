@@ -40,4 +40,4 @@ You may stop using the app at any time. You remain responsible for deleting loca
 
 ## 6. Contact
 
-Legal/privacy contact: [privacy@shooterlog.app](mailto:privacy@shooterlog.app)
+Legal/privacy contact: [shooterlog.app@gmail.com](mailto:shooterlog.app@gmail.com)

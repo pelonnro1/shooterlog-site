@@ -9,7 +9,7 @@ Need help with ShooterLog? Use one of the options below.
 
 ## Contact
 
-- Email: [privacy@shooterlog.app](mailto:privacy@shooterlog.app)
+- Email: [shooterlog.app@gmail.com](mailto:shooterlog.app@gmail.com)
 
 ## GitHub support channels
 

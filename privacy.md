@@ -36,7 +36,7 @@ You, as the app user, control your own session records. The app processes data o
 
 Where applicable under GDPR, you may have rights to access, rectification, erasure, restriction, objection, and portability.
 
-Privacy contact: [privacy@shooterlog.app](mailto:privacy@shooterlog.app)
+Privacy contact: [shooterlog.app@gmail.com](mailto:shooterlog.app@gmail.com)
 
 ## 6. Responsibility and Liability
 
