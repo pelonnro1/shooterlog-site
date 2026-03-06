@@ -1,0 +1,5 @@
+title: ShooterLog
+description: ShooterLog legal and support pages
+theme: minima
+markdown: kramdown
+permalink: pretty
