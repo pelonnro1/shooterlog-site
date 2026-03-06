@@ -9,11 +9,11 @@ ShooterLog is a local-first shooting logbook app.
 
 ## Legal and support
 
-- [Privacy Policy](/privacy/)
-- [Terms of Use](/terms/)
-- [Data Storage and Backup Terms](/data-processing/)
-- [Open-source licenses](/licenses/)
-- [Support](/support/)
+- [Privacy Policy]({{ '/privacy/' | relative_url }})
+- [Terms of Use]({{ '/terms/' | relative_url }})
+- [Data Storage and Backup Terms]({{ '/data-processing/' | relative_url }})
+- [Open-source licenses]({{ '/licenses/' | relative_url }})
+- [Support]({{ '/support/' | relative_url }})
 
 ## Key points
 
