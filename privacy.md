@@ -6,7 +6,9 @@ title: Privacy Policy
 # ShooterLog Privacy Policy
 
 Effective date: 2026-03-06  
-Version: 2026-03-06-v5
+Version: 2026-03-06-v6
+
+> **ShooterLog does not collect, transmit, sell, or share personal data with the developer.**
 
 ## 1. Scope
 
