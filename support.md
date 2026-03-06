@@ -9,12 +9,12 @@ Need help with ShooterLog? Use one of the options below.
 
 ## Contact
 
-- Email: `privacy@shooterlog.app`
+- Email: [privacy@shooterlog.app](mailto:privacy@shooterlog.app)
 
 ## GitHub support channels
 
-- Bug reports: https://github.com/pelonnro1/shooterlog-site/issues
-- Questions and feedback: https://github.com/pelonnro1/shooterlog-site/issues
+- Bug reports: [GitHub Issues](https://github.com/pelonnro1/shooterlog-site/issues)
+- Questions and feedback: [GitHub Issues](https://github.com/pelonnro1/shooterlog-site/issues)
 
 ## Before you report
 

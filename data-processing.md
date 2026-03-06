@@ -41,4 +41,4 @@ If you store backups in third-party services, their privacy/security terms apply
 
 - You can delete local data in-app.
 - You can delete backups from your chosen storage provider(s).
-- Contact: `privacy@shooterlog.app`
+- Contact: [privacy@shooterlog.app](mailto:privacy@shooterlog.app)
